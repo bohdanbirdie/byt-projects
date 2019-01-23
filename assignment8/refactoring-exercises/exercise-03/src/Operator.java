@@ -1,0 +1,6 @@
+
+interface Operator {
+	int evaluate();
+}
+
+	  
